@@ -6,7 +6,7 @@ In this repository we will check two commonly used unsupervised learning algorit
 
 In this exercise we will use the two to perform clustering for Iris Data set.
 
-## Iris Dataset
+### Iris Dataset
 
 [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) is a very popular dataset in machine learning community. Developed by Fisher, it containd 3 classes each with 50 instances. Each of the three class refers to a type of Iris plant. Each data point consists of four different attributes and a class label:
 
